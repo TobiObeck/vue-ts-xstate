@@ -1,29 +1,1 @@
-# vue-ts-xstate
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue + TS + XstateMay serve as a collection of simple self contained xstate examples that include some dom manipulation as well as some dynamically applied css stylings, disabled elements, showing hiding of elemnts...Currently:1.  Simple toggle components with status LED  1. simple toggle machine  2. toggle machine with message via state.context2. WIP# vue-ts-xstate## Project setup```npm install```### Compiles and hot-reloads for development```npm run serve```### Compiles and minifies for production```npm run build```### Run your tests```npm run test```### Lints and fixes files```npm run lint```### Customize configurationSee [Configuration Reference](https://cli.vuejs.org/config/).
